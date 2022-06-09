@@ -1,0 +1,9 @@
+! moja nazwa tabeli
+
+id INT AUTO_INCREMENT
+imie TEXT
+
+!tabelo numero dos
+
+id INT NOT NULL
+plec TEXT
